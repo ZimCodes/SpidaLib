@@ -1,2 +1,2 @@
 # SpidaLib
-Utility Shortcuts created from testing through Unity.
+Utility Shortcuts created from my projects throughout Unity.
